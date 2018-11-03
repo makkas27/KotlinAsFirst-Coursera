@@ -1,0 +1,20 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JavaCodeStyleSettings>
+      <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
+      <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
+      <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
+      <option name="IMPORT_LAYOUT_TABLE">
+        <value>
+          <package name="" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="javax" withSubpackages="false" static="false" />
+          <package name="java" withSubpackages="false" static="false" />
+          <emptyLine />
+        </value>
+      </option>
+    </JavaCodeStyleSettings>
+  </code_scheme>
+</component>
